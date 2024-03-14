@@ -1,0 +1,14 @@
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.AssemblyInfoInputs.cache
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.AssemblyInfo.cs
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.csproj.CoreCompileInputs.cache
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\bin\Debug\net7.0\HW03.07.exe
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\bin\Debug\net7.0\HW03.07.deps.json
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\bin\Debug\net7.0\HW03.07.runtimeconfig.json
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\bin\Debug\net7.0\HW03.07.dll
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\bin\Debug\net7.0\HW03.07.pdb
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.dll
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\refint\HW03.07.dll
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.pdb
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\HW03.07.genruntimeconfig.cache
+C:\Users\Byyf\Desktop\Учеба\C#\Homework\HW03.07\obj\Debug\net7.0\ref\HW03.07.dll
